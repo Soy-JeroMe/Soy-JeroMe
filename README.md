@@ -15,7 +15,7 @@ En este perfil estaré subiendo **mis proyectos personales**, donde aplico lo qu
 - Astro
 
 ## 🌍 Encuéntrame en:
-- [LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jer%C3%B3nimo-orozco?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
+- - [LinkedIn](https://www.linkedin.com/in/jer%C3%B3nimo-orozco?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 
 
